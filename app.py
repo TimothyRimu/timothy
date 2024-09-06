@@ -25,4 +25,4 @@ df = pd.DataFrame(data_dict)
 st.dataframe(df)
 
 
- # diabetes approximation
+ # diabetes approximation model
