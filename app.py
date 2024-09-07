@@ -25,4 +25,5 @@ df = pd.DataFrame(data_dict)
 st.dataframe(df)
 
 
- # diabetes approximation model
+ # diabetes approximation model 
+st.subheader('Diabetes Approximation Model')
